@@ -1,0 +1,1 @@
+This is the readme file for project 0x02-vi on holberton day zero / one projects. Let's learn some vi! 
