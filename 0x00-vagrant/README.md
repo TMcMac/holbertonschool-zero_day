@@ -1,0 +1,1 @@
+This is the read me file for my Vagrant folder on Day Zero of Holberton. 
