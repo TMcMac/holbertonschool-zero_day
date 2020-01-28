@@ -1,4 +1,6 @@
 This is my first progect of Day 0 at Holberton Tulsa.
 
 	
-*Emphasize*Holbie is a seahorse that is a seahorse.*Emphasize* -Libby
+*Holbie is a seahorse that is a seahorse.* -Libby
+
+This is an update to the readme file so we can all be up to date!
