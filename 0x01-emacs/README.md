@@ -1,0 +1,1 @@
+This is project two of day zero at Holberton. This project focuese on using emacs for working with files. 
